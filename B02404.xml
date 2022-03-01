@@ -1,0 +1,2129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A song for this sad times; composed by one of the now many wanderers, when much separated from the society of men, and somewhat incommodat for other works to divert him from vain ravings, and for to humble and recreat his own spirit. / By Mr. Jo. Castairs, Minister of the Gospel at Glasgow, when under imprisonment.</title>
+            <author>Carstairs, John, fl. 1646-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02404</idno>
+            <idno type="STC">Wing C647</idno>
+            <idno type="STC">ESTC R170904</idno>
+            <idno type="EEBO-CITATION">51784425</idno>
+            <idno type="OCLC">ocm 51784425</idno>
+            <idno type="VID">174846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174846)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2703:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A song for this sad times; composed by one of the now many wanderers, when much separated from the society of men, and somewhat incommodat for other works to divert him from vain ravings, and for to humble and recreat his own spirit. / By Mr. Jo. Castairs, Minister of the Gospel at Glasgow, when under imprisonment.</title>
+                  <author>Carstairs, John, fl. 1646-1660.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Reid ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Poetry --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174846:1" rendition="simple:additions"/>
+            <pb facs="tcp:174846:1"/>
+            <pb facs="tcp:174846:2"/>
+            <pb facs="tcp:174846:2" rendition="simple:additions"/>
+            <p>A SONG FOR THIS Sad Times; Compoſed By One of the now many <hi>Wanderers,</hi> When much Separated from the Society of Men, and ſomewhat incommodat for other Works to divert him from vain Ra<g ref="char:EOLhyphen"/>vings, and for to Hum<g ref="char:EOLhyphen"/>ble and Recreat his own Spirit.</p>
+            <p>By Mr. JO. CASTAIRS, Miniſter of the Goſpel at <hi>Glaſgow,</hi> when under Impriſonment.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by JOHN REID, at his Printing-Houſe in <hi>Bells-wynd</hi> at the head of the <hi>Court of Guard.</hi> Anno 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="2" facs="tcp:174846:3"/>
+            <head>A SONG for this ſad Times compoſed by one of t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> now many Wanderers, when much ſeperated fr<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Society of Men, and ſomewhat incommodat f<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> other Works, to divert him from vain Ravings, a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for to Humble, and Recreat his own Spirit.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>I HAVE this while a Priſoner cloſs,</l>
+               <l>been without Libertie,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſome ti<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſcarce accommodate,</l>
+               <l>as I had wont to be.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>But ſure I ſhould be well content</l>
+               <l>to lurk in hill's or cell's.</l>
+               <l>Who juſtly might long ſince have been</l>
+               <l>lodg'd in the loweſt hells;</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>And that for ills that I have done</l>
+               <l>already, <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>Should I not in all reaſon be</l>
+               <l>well pleaſed with my lot.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>It is His Preſence I perceive</l>
+               <l>that ſweetneth every place</l>
+               <l>O that I could then evermore</l>
+               <l>ſeek His moſt bleſſed Face!</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Whereof but one ſmile, doth the ſoul</l>
+               <l>refreſh a great deal more,</l>
+               <l>Then Crowd of Friends, and of that ſort</l>
+               <l>of Comforts greater ſtore.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>This ſmall Propine I have you ſent,</l>
+               <l>a Coppie of ſome Lines,</l>
+               <l>For ſubſtance from experience drawn</l>
+               <l>and richeſt ſcripture Mynes.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Whoſe Fields abound with Treaſure hid,</l>
+               <l>and Games of greateſt price,</l>
+               <l>O but the Divine ſcriptures be</l>
+               <l>an excellent Device!</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Wherein GOD's Wiſdom manifold,</l>
+               <l>it ſelf doth clearly ſhow,</l>
+               <l>In ſuiting them to things and time</l>
+               <l>as if writ juſt but now.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Did CHRISTS Word in us richly dwel.</l>
+               <l>to one another we</l>
+               <l>In Pſalm's, and Hymns, and Spiritual Songs,</l>
+               <l>admoniſhers might be.</l>
+            </lg>
+            <pb n="3" facs="tcp:174846:3"/>
+            <lg n="10">
+               <head>10.</head>
+               <l>And though we ſing the loweſt baſe,</l>
+               <l>even of the ſadeſt port.</l>
+               <l>Yet might they then in Quiver all</l>
+               <l>ſome ſweet notes of Comfort.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>Of grief and joy together mixt,</l>
+               <l>we might fine Muſick make,</l>
+               <l>That would our ſouls ſome way from Earth,</l>
+               <l>to HEAVEN by tranſport take</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>Where doubtles of ſweet ſingers all</l>
+               <l>the very ſweeteſt are,</l>
+               <l>Surpaſſing <hi>David, Jeduthun,</hi>
+               </l>
+               <l>
+                  <hi>Aſaph,</hi> and <hi>Heman</hi> fare.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>Their great long maſters mate with them,</l>
+               <l>but like ſchool Boys would be,</l>
+               <l>Who learn the game, and their firſt notes,</l>
+               <l>ſing with difficulty.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Their Harps are ſcrew'd to higheſt page,</l>
+               <l>their voice ſweet ſhirl and clear,</l>
+               <l>Amongſt them all no jarr you will,</l>
+               <l>nor diſcord ever hear.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>Their ſongs above are all compoſ'd</l>
+               <l>of pure, but various joyes,</l>
+               <l>More ſweet then thoſe on Organs play'd,</l>
+               <l>and ſong by men with joyes.</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>Our harps now hang on willows, and</l>
+               <l>by Babell ſtreams we weep,</l>
+               <l>But then w'l ſing, play, dance, and all</l>
+               <l>our holy meaſures keep.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>Diſturb'd much now are all our ſongs,</l>
+               <l>by <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, devils, and ill men;</l>
+               <l>But then in ſpite of them, we'le ſing</l>
+               <l>that Heavenly <hi>requiem.</hi>
+               </l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>We here through ſin, trouble and greif,</l>
+               <l>win ſcarcely one to croon</l>
+               <l>But then the Lambs ſongs we'l chaunt too</l>
+               <l>that new Coeleſtial tune:</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>And common tunes with all their parts</l>
+               <l>as toyes will be forgot</l>
+               <l>When that comes forth not heard on Earth,</l>
+               <l>all new in every note.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>Thoſe Harpers on the ſea of Glaſs,</l>
+               <l>will make ſuch divine ſound,</l>
+               <pb n="4" facs="tcp:174846:4"/>
+               <l>That thence againſt the echo will</l>
+               <l>about the throne abound.</l>
+            </lg>
+            <lg n="21">
+               <head>21.</head>
+               <l>Where ſiteth GOD, and <hi>Chriſt,</hi> the <hi>Lamb,</hi>
+               </l>
+               <l>in robs of Majeſty,</l>
+               <l>Surrounded with the elders grave,</l>
+               <l>who alwayes raviſhed be.</l>
+            </lg>
+            <lg n="22">
+               <head>22.</head>
+               <l>Them to behold, and cannot thoſe,</l>
+               <l>But ſtill to chaunt and ſing,</l>
+               <l>That viſion bleſt, freſh matter doth</l>
+               <l>of new ſong say them bring:</l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>When all heavenly Quiriſters,</l>
+               <l>shall each their own part ſing,</l>
+               <l>That confort rare of voices ſweet,</l>
+               <l>will make GODS temple ring.</l>
+            </lg>
+            <lg n="24">
+               <head>24.</head>
+               <l>Sad as I am me thinks I am fain</l>
+               <l>their melody to hear,</l>
+               <l>Shall I once be a member of</l>
+               <l>that ſweetly warbling queer.</l>
+            </lg>
+            <lg n="25">
+               <head>25</head>
+               <l>When <hi>I</hi> through cold and darkneſs was</l>
+               <l>forc'd to ly much on bed.</l>
+               <l>
+                  <hi>I</hi> to this ſong by providence,</l>
+               <l>as by the hand was led,</l>
+            </lg>
+            <lg n="26">
+               <head>26.</head>
+               <l>Which did from viewing vanities,</l>
+               <l>ſome what at leaſt divert,</l>
+               <l>If not chear up and humble too,</l>
+               <l>my ſad, but yet light heart.</l>
+            </lg>
+            <lg n="27">
+               <head>27.</head>
+               <l>
+                  <hi>I</hi> wiſh't might have on you the ſame,</l>
+               <l>or ſome more bleſt effect,</l>
+               <l>Such as it is, pray take it as</l>
+               <l>a pledge of my reſpect;</l>
+            </lg>
+            <lg n="28">
+               <head>28.</head>
+               <l>But ſince it is the firſt I eſſay,</l>
+               <l>
+                  <hi>I</hi> have made of that ſort,</l>
+               <l>I do expect, that you with it</l>
+               <l>the better will comport.</l>
+            </lg>
+            <lg n="29">
+               <head>29.</head>
+               <l>When ſhall it once at laſt to me,</l>
+               <l>through grace to my lot fall,</l>
+               <l>From GOD above to have and hold</l>
+               <l>my expectation all</l>
+            </lg>
+            <lg n="30">
+               <head>30.</head>
+               <l>If <hi>I</hi> within theſe bounds.</l>
+               <l>were happily confind,</l>
+               <l>Nothing I am inclin'd to think,</l>
+               <l>would thence forth croſs my mind;</l>
+            </lg>
+            <pb n="5" facs="tcp:174846:4"/>
+            <lg n="31">
+               <head>31.</head>
+               <l>If in him alſo I my ſelf</l>
+               <l>delighted only ſtill,</l>
+               <l>He would according to his word,</l>
+               <l>my heart deſires fulfill:</l>
+            </lg>
+            <lg n="32">
+               <head>32.</head>
+               <l>Though earthly comforts were dry'd up,</l>
+               <l>and all-together ſpent,</l>
+               <l>Yet his own all-ſufficient ſelf</l>
+               <l>would yeild me full content.</l>
+            </lg>
+            <lg n="33">
+               <head>33.</head>
+               <l>O! this a little heaven on earth,</l>
+               <l>would ſure found for to be,</l>
+               <l>Unto a fainting ſojurner,</l>
+               <l>like wandring weary me;</l>
+            </lg>
+            <lg n="34">
+               <head>34.</head>
+               <l>But when I look to others arts,</l>
+               <l>dreaming to be made up,</l>
+               <l>It's juſt I ſhould be made to drink,</l>
+               <l>out of ſome empty cup;</l>
+            </lg>
+            <lg n="35">
+               <head>35.</head>
+               <l>Where while I drunk my ſelf <hi>I</hi> find</l>
+               <l>To be the dryer ſtill,</l>
+               <l>Thus will it doubtleſs alwayes be,</l>
+               <l>till he my heart ſhall fill</l>
+            </lg>
+            <lg n="36">
+               <head>36.</head>
+               <l>For ſiſterns that no water hold,</l>
+               <l>can never ſatisfy,</l>
+               <l>The immortal ſoul inlarg'd deſires,</l>
+               <l>and vaſt capacity;</l>
+            </lg>
+            <lg n="37">
+               <head>37.</head>
+               <l>The grateſt draught, but draught provoks,</l>
+               <l>and choaks the heart with thirſt,</l>
+               <l>Yea to theſe ciſterns haſtes again,</l>
+               <l>more dry then at the firſt</l>
+            </lg>
+            <lg n="38">
+               <head>38.</head>
+               <l>
+                  <hi>A</hi> Scripture truth moſt plain this is,</l>
+               <l>as any there contain'd,</l>
+               <l>And after thouſands of eſſays</l>
+               <l>In ages all mantaind.</l>
+            </lg>
+            <lg n="39">
+               <head>39.</head>
+               <l>Though I but little know of GOD,</l>
+               <l>and of his works and way,</l>
+               <l>Yet from the experience clear, I can</l>
+               <l>confirm this truth to day:</l>
+            </lg>
+            <lg n="40">
+               <head>40.</head>
+               <l>For I two great ills did commit,</l>
+               <l>at which amaz'd may be,</l>
+               <l>And very deſolat the Heavens,</l>
+               <l>yea frighted horribly;</l>
+            </lg>
+            <pb n="6" facs="tcp:174846:5"/>
+            <lg n="41">
+               <head>41.</head>
+               <l>
+                  <hi>I</hi> Ciſtrens broke hew'd to my ſelf</l>
+               <l>that would no Water hold,</l>
+               <l>And living Waters Fountain did</l>
+               <l>forſake, how can't be told!</l>
+            </lg>
+            <lg n="42">
+               <head>42.</head>
+               <l>I am the Perſon, I muſt grant,</l>
+               <l>that fooliſhly did try</l>
+               <l>Waters to ſeek at Winter brookes,</l>
+               <l>which Summers drought doth dry.</l>
+            </lg>
+            <lg n="43">
+               <head>43.</head>
+               <l>For which I'm forc'd with <hi>Tames</hi> Troups,</l>
+               <l>confounded to turn back,</l>
+               <l>Since there of either ſtrip or brook,</l>
+               <l>there's now no path or track.</l>
+            </lg>
+            <lg n="44">
+               <head>44.</head>
+               <l>A Childiſh fancy ſure it was,</l>
+               <l>to dream theſe brooks could byd,</l>
+               <l>When Perſecuting heat ſhould riſe,</l>
+               <l>or trouble Men betyde:</l>
+            </lg>
+            <lg n="45">
+               <head>45.</head>
+               <l>For which I am now made to drink,</l>
+               <l>as to my ſelf <hi>I</hi> brew'd;</l>
+               <l>On every ſerious thought of which</l>
+               <l>my ſorrows are renew'd;</l>
+            </lg>
+            <lg n="46">
+               <head>46.</head>
+               <l>Like <hi>Succoths</hi> Men I'm alſo taught</l>
+               <l>as't were with thorns and brears,</l>
+               <l>Some Leſſons not well Learn'd by me,</l>
+               <l>before in many Years;</l>
+            </lg>
+            <lg n="47">
+               <head>47.</head>
+               <l>And therefore in diſpleaſures juſt,</l>
+               <l>of trouble in this Day,</l>
+               <l>
+                  <hi>I</hi> with a ſharp go get them, better</l>
+               <l>am by him ſent away:</l>
+            </lg>
+            <lg n="48">
+               <head>48.</head>
+               <l>That it's an ill and bitter thing,</l>
+               <l>I am now made to know,</l>
+               <l>From Him that is the Living GOD,</l>
+               <l>to have departed ſo;</l>
+            </lg>
+            <lg n="49">
+               <head>49.</head>
+               <l>And that His Fear before mine eyes,</l>
+               <l>as it ſhould not have been</l>
+               <l>Before me, now both grief and wounds</l>
+               <l>and moſt ſad things are ſeen;</l>
+            </lg>
+            <lg n="50">
+               <head>50.</head>
+               <l>About my neck wreath'd by His Hands,</l>
+               <l>Is my tranſgreſſions yoke,</l>
+               <l>So hard that ſtrange it would not be</l>
+               <l>though it my breath ſhould choak;</l>
+            </lg>
+            <pb n="7" facs="tcp:174846:5"/>
+            <lg n="51">
+               <head>51.</head>
+               <l>He bitter things againſt me writs,</l>
+               <l>and me poſſeſs doth make</l>
+               <l>Of Youth and older age, the ſins</l>
+               <l>for which my heart doth aike</l>
+            </lg>
+            <lg n="52">
+               <head>52.</head>
+               <l>In the light of His Countenance,</l>
+               <l>my ſecret ſins ſets he,</l>
+               <l>And with the fruit of mine own wayes</l>
+               <l>fills heart, backſliding me.</l>
+            </lg>
+            <lg n="53">
+               <head>53.</head>
+               <l>My feet He putteth in the ſtocks,</l>
+               <l>and marketh narrowly</l>
+               <l>My footſteps all, and on my heels</l>
+               <l>a vive print ſetteth He.</l>
+            </lg>
+            <lg n="54">
+               <head>54.</head>
+               <l>He alſo, now alace! hath made<g ref="char:punc">▪</g>
+               </l>
+               <l>heavy on me my chain,</l>
+               <l>O! that his reconcilled Face;</l>
+               <l>might through theſe dark clouds ſhine.</l>
+            </lg>
+            <lg n="55">
+               <head>55.</head>
+               <l>Proſperity I have forgot,</l>
+               <l>my ſoul's from peace remov'd,</l>
+               <l>I tempted am to doubt ſometimes,</l>
+               <l>if ever He me Lov'd.</l>
+            </lg>
+            <lg n="56">
+               <head>56.</head>
+               <l>That ſin by all, this one World think</l>
+               <l>is now much mortifi'd,</l>
+               <l>And that <hi>I</hi> am not to the World</l>
+               <l>a little crucifi'd.</l>
+            </lg>
+            <lg n="57">
+               <head>57.</head>
+               <l>But troubles great gone through may be</l>
+               <l>and ſin as dead ſtill ly:</l>
+               <l>Which yet may after make the Man,</l>
+               <l>oh, ſin hath ſlain me cry!</l>
+            </lg>
+            <lg n="58">
+               <head>58.</head>
+               <l>The thornieſt croſs not bleſt, but proves</l>
+               <l>like pricking of a pin,</l>
+               <l>Which will nor peirce, let be his heart</l>
+               <l>this Leviathan skin;</l>
+            </lg>
+            <lg n="59">
+               <head>59.</head>
+               <l>Sharp pointed things in troubles mire,</l>
+               <l>ſpread under it may be,</l>
+               <l>And yet it not ſo much as groan</l>
+               <l>or move it ſelf you'l ſee.</l>
+            </lg>
+            <lg n="60">
+               <head>60.</head>
+               <l>At ſling-ſtones darts ſpears of the croſs,</l>
+               <l>it laughs, and counts them ſtuble</l>
+               <l>Unto this day, it ſlain <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hurt</l>
+               <l>was never by meer trouble.</l>
+            </lg>
+            <pb n="8" facs="tcp:174846:6"/>
+            <lg n="61">
+               <head>61.</head>
+               <l>Nay it's courag'd ſometimes and grows</l>
+               <l>more fierce, when theſe it prick,</l>
+               <l>And were it in the LORDS own hand</l>
+               <l>to ſpit, it would not ſtike</l>
+            </lg>
+            <lg n="62">
+               <head>62.</head>
+               <l>As in our bodies humors, that</l>
+               <l>highly Malignant be,</l>
+               <l>All Cures not ſoveraign to reject,</l>
+               <l>and rage the more we ſee,</l>
+            </lg>
+            <lg n="63">
+               <head>63.</head>
+               <l>For inſtance if we do call</l>
+               <l>of this thruch grave and ſad,</l>
+               <l>Within, without, long ſince, and now,</l>
+               <l>too many may be had.</l>
+            </lg>
+            <lg n="64">
+               <head>64.</head>
+               <l>The LORD may ſmile and hide His Face</l>
+               <l>yea, very angry be,</l>
+               <l>And yet we in our own hearts way,</l>
+               <l>go on moſt frowardly.</l>
+            </lg>
+            <lg n="65">
+               <head>65.</head>
+               <l>No way there is with their mad hearts,</l>
+               <l>and deſperat to deal,</l>
+               <l>Yet having ſeen our wayes, that He</l>
+               <l>may gloriouſly them heal,</l>
+            </lg>
+            <lg n="66">
+               <head>66.</head>
+               <l>GODS People in the deſart, He</l>
+               <l>many ſtrange ways did kill,</l>
+               <l>Yet notwithſtanding of all this.</l>
+               <l>they ſinned ever ſtill:</l>
+            </lg>
+            <lg n="67">
+               <head>67.</head>
+               <l>Nay ſome there were GOD ſurely ſtrook,</l>
+               <l>yet they tranſgreſſ'd the more,</l>
+               <l>And ſin is now as loath to die,</l>
+               <l>as then, or long before.</l>
+            </lg>
+            <lg n="68">
+               <head>68.</head>
+               <l>Sin may with Men to troubles great,</l>
+               <l>to Priſon, Bonds Exile,</l>
+               <l>Yea't may be to a ſcaffold go,</l>
+               <l>and yet live all the while.</l>
+            </lg>
+            <lg n="69">
+               <head>69.</head>
+               <l>When I through fire and water both,</l>
+               <l>nay were I drag'd through hell,</l>
+               <l>Yet that ſin liv'd in ſtrength, I could,</l>
+               <l>from ſad experience tell.</l>
+            </lg>
+            <lg n="70">
+               <head>70.</head>
+               <l>What are not ſouls of damned men,</l>
+               <l>tormented in extream;</l>
+               <l>Yet ſins ſo high, that now their work</l>
+               <l>is GOD ſtill to blaſphem.</l>
+            </lg>
+            <pb n="9" facs="tcp:174846:6"/>
+            <lg n="71">
+               <head>71.</head>
+               <l>Nothing in HEAVEN, Earth, or Hell,</l>
+               <l>will make ſin ceaſe to live,</l>
+               <l>But grace alone, which ſtill hath this</l>
+               <l>for its prerogative.</l>
+            </lg>
+            <lg n="72">
+               <head>72.</head>
+               <l>Since devils then find in HEAVEN, and they</l>
+               <l>with men in hell do ſo,</l>
+               <l>That nought but grace can ſin ſubdue,</l>
+               <l>it's high time we ſhould know:</l>
+            </lg>
+            <lg n="73">
+               <head>73.</head>
+               <l>For ſince <hi>I</hi> walkt without the Sun,</l>
+               <l>companion to Owls,</l>
+               <l>My troubles of that kind, that it</l>
+               <l>ſome friends affections cools.</l>
+            </lg>
+            <lg n="74">
+               <head>74.</head>
+               <l>Moſt near Relations now from me,</l>
+               <l>He hath removed farr,</l>
+               <l>Former acquaintance alſo do</l>
+               <l>at my affliction ſcare.</l>
+            </lg>
+            <lg n="75">
+               <head>75.</head>
+               <l>When GOD on's Peoples ſins himſelf</l>
+               <l>begins once to avenge,</l>
+               <l>Amongſt their other tryalls, then</l>
+               <l>the world grows very ſtrange;</l>
+            </lg>
+            <lg n="76">
+               <head>76.</head>
+               <l>Their Croſs, tho' Chriſt for ſubſtance may,</l>
+               <l>by them alſo nicknam'd,</l>
+               <l>By friends which will them ſtrangely tempt,</l>
+               <l>of it to be a ſham'd,</l>
+            </lg>
+            <lg n="77">
+               <head>77.</head>
+               <l>Though by Mens judgement to be judg'd,</l>
+               <l>for us its a ſmall thing,</l>
+               <l>Since GOD or long all blacks and whites,</l>
+               <l>forth to the light will bring.</l>
+            </lg>
+            <lg n="78">
+               <head>78.</head>
+               <l>But here to ſtoup I am conſtrain'd</l>
+               <l>in midſt of this complaint,</l>
+               <l>To tell that he's both good and kind,</l>
+               <l>which makes my grief relent,</l>
+            </lg>
+            <lg n="79">
+               <head>79.</head>
+               <l>Some times he makes me hope, that all</l>
+               <l>my ſins He will forgive,</l>
+               <l>And though that I be thruſt at ſore,</l>
+               <l>yet ſhall not die but live:</l>
+            </lg>
+            <lg n="80">
+               <head>80.</head>
+               <l>And were it known what <hi>I</hi> have done,</l>
+               <l>what I have alſo been,</l>
+               <l>It would be wondered at, that I</l>
+               <l>ſhould ever be forgiven.</l>
+            </lg>
+            <pb n="10" facs="tcp:174846:7"/>
+            <lg n="81">
+               <head>81.</head>
+               <l>But what's in our eyes marvellous,</l>
+               <l>is nothing ſo in his,</l>
+               <l>Who in the pardoning of ſin,</l>
+               <l>a GOD moſt matchleſs is:</l>
+            </lg>
+            <lg n="82">
+               <head>82.</head>
+               <l>This art of favour and of grace</l>
+               <l>ſhew'd me, were it proclaim'd</l>
+               <l>From misbeleif, all humbled ſouls</l>
+               <l>forever might be ſham'd;</l>
+            </lg>
+            <lg n="83">
+               <head>83.</head>
+               <l>He ſometime alſo viſits me,</l>
+               <l>and asks me? how I doe;</l>
+               <l>Come faithfull friends he doth provide,</l>
+               <l>that looks me well unto.</l>
+            </lg>
+            <lg n="84">
+               <head>84.</head>
+               <l>Its taught, not talk'd, of love that works</l>
+               <l>moſt kindly ſimpathy,</l>
+               <l>That man ſo taught's the brother ſure</l>
+               <l>born for adverſity;</l>
+            </lg>
+            <lg n="85">
+               <head>85.</head>
+               <l>This friend at all times loves, and is</l>
+               <l>more kind then any other;</l>
+               <l>Yea he's the very friend that ſticks</l>
+               <l>more cloſe then any brother:</l>
+            </lg>
+            <lg n="86">
+               <head>86.</head>
+               <l>For ſin I am made to poſſeſs,</l>
+               <l>moneths of vanity,</l>
+               <l>And nights that be right weariſome,</l>
+               <l>appointed are for me;</l>
+            </lg>
+            <lg n="87">
+               <head>87.</head>
+               <l>In bed with toſſing I am fil'd,</l>
+               <l>till dawning of the day</l>
+               <l>And then he muſtereth up in view</l>
+               <l>my ſins, in battell ray:</l>
+            </lg>
+            <lg n="88">
+               <head>88.</head>
+               <l>Deaths terrours ſometime me incloſe,</l>
+               <l>his archers me ſurround,</l>
+               <l>And me my perſecutors all</l>
+               <l>Between the ſtraits have found,</l>
+            </lg>
+            <lg n="89">
+               <head>89.</head>
+               <l>He in his ſore diſpleaſure hath</l>
+               <l>ſad things unto me ſhew'd.</l>
+               <l>And ſometimes againſt me are, alace!</l>
+               <l>his witneſſes renew'd.</l>
+            </lg>
+            <lg n="90">
+               <head>90.</head>
+               <l>But righteouſneſs to him belong</l>
+               <l>and juſtly I'm thus ſerv'd,</l>
+               <l>Yea puniſh'd far beneath, truely</l>
+               <l>what my ſins have deſerv'd:</l>
+            </lg>
+            <pb n="11" facs="tcp:174846:7"/>
+            <lg n="91">
+               <head>91</head>
+               <l>And that I'm yet a living man</l>
+               <l>out of the pit ſhould I,</l>
+               <l>Complain of puniſhment, tho great</l>
+               <l>for mine iniquity.</l>
+            </lg>
+            <lg n="92">
+               <head>92</head>
+               <l>If I at laſt be ſav'd, and get</l>
+               <l>my ſoul given for a prey;</l>
+               <l>Tho I through ſeas of trouble ſweem,</l>
+               <l>I'm well come too <hi>I</hi> ſay.</l>
+            </lg>
+            <lg n="93">
+               <head>93</head>
+               <l>Yet, O, He is a jealous GOD,</l>
+               <l>and on his children will</l>
+               <l>For their inventions vengeance take,</l>
+               <l>though pardon them yet ſtill.</l>
+            </lg>
+            <lg n="94">
+               <head>94.</head>
+               <l>For inſtance here, we may pitch one,</l>
+               <l>
+                  <hi>Moſes</hi> the Man of GOD,</l>
+               <l>Who for's eſcapes at <hi>Meribah,</hi>
+               </l>
+               <l>with his foot might not trod</l>
+            </lg>
+            <lg n="95">
+               <head>95.</head>
+               <l>In <hi>Caanans</hi> Land, yea though to ſee it,</l>
+               <l>he pray'd moſt earneſtly;</l>
+               <l>Yet be content, ſaith GOD, and ſpeak</l>
+               <l>no more of this to me.</l>
+            </lg>
+            <lg n="96">
+               <head>96.</head>
+               <l>By him, as the choiſe inſtrument,</l>
+               <l>even at the toutch of's rod,</l>
+               <l>Moſt dreadful ſignes and wonders wrought.</l>
+               <l>the great and mighty GOD.</l>
+            </lg>
+            <lg n="97">
+               <head>97.</head>
+               <l>For <hi>Iſraels</hi> ſins, full fourty dayes,</l>
+               <l>the LORD he did intreat</l>
+               <l>Moſt earneſtly, even all the while.</l>
+               <l>did nether drink not eat</l>
+            </lg>
+            <lg n="98">
+               <head>98.</head>
+               <l>A <hi>Mediator typicall,</hi>
+               </l>
+               <l>'twixt them to deill did he</l>
+               <l>On <hi>Sinai,</hi> and ſo repreſent</l>
+               <l>
+                  <hi>Chriſt</hi> the true one clearlie</l>
+            </lg>
+            <lg n="99">
+               <head>99.</head>
+               <l>The meekeſt man he was on earth,</l>
+               <l>my divine teſtimony,</l>
+               <l>In's own concerns, though in the LORDS,</l>
+               <l>even to hoofs peremptory!</l>
+            </lg>
+            <lg n="100">
+               <head>100.</head>
+               <l>He faithfull was in all GODS houſe,</l>
+               <l>and in his ſight found grace,</l>
+               <l>To be his none ſuch favorite,</l>
+               <l>and ſpeak him face to face.</l>
+            </lg>
+            <pb n="12" facs="tcp:174846:8"/>
+            <lg n="101">
+               <head>101.</head>
+               <l>And through his great converſe with GOD,</l>
+               <l>the skin of's face did ſhine,</l>
+               <l>That none could ſpeak with him, unleſs</l>
+               <l>a vail was drawn thereon.</l>
+            </lg>
+            <lg n="102">
+               <head>102.</head>
+               <l>Nay, more with his own hands, the LORD</l>
+               <l>his body did interr,</l>
+               <l>And raiſ'd him up with <hi>Jeſus Chriſt,</hi>
+               </l>
+               <l>transfigured to confer.</l>
+            </lg>
+            <lg n="103">
+               <head>103.</head>
+               <l>So many things ſo great and ſtrange,</l>
+               <l>met never in one man;</l>
+               <l>Nor to this day his parallel,</l>
+               <l>the world afford none can.</l>
+            </lg>
+            <lg n="104">
+               <head>104.</head>
+               <l>Accordingly the Spirit's pen,</l>
+               <l>his Epitaph thus drew;</l>
+               <l>
+                  <hi>No Prophet ſince like him aroſe,</hi>
+               </l>
+               <l>
+                  <hi>whom face to face GOD knew:</hi>
+               </l>
+            </lg>
+            <lg n="105">
+               <head>105.</head>
+               <l>Yet he, even he, ſo rare a Man,</l>
+               <l>for one ſlip payes thus dear,</l>
+               <l>Is this not of GODS jealouſie</l>
+               <l>a demonſtration clear.</l>
+            </lg>
+            <lg n="106">
+               <head>106.</head>
+               <l>Had our groſs ills let be our ſlips,</l>
+               <l>ſuch marks on them ſet now,</l>
+               <l>All hopes to ſee GOD this ſide Heaven,</l>
+               <l>would be cut off I trow:</l>
+            </lg>
+            <lg n="107">
+               <head>107.</head>
+               <l>And very like it may ſo, with</l>
+               <l>this generation be,</l>
+               <l>That he in trouble waſte our dayes,</l>
+               <l>and years in vanity.</l>
+            </lg>
+            <lg n="108">
+               <head>108.</head>
+               <l>But free and ſoveraign grace, I grant</l>
+               <l>makes ſuch Prognoſticks fail,</l>
+               <l>When not in common rule; but by</l>
+               <l>prerogative he'l deal:</l>
+            </lg>
+            <lg n="109">
+               <head>109.</head>
+               <l>And if with us he take not now,</l>
+               <l>this very ſoveraign way,</l>
+               <l>We're gone, and in our ſins we will<g ref="char:punc">▪</g>
+               </l>
+               <l>and troubles pine away:</l>
+            </lg>
+            <lg n="110">
+               <head>110.</head>
+               <l>He is ſo very jealous, that</l>
+               <l>his love cannot endure,</l>
+               <l>That any ſoul eſpouſ'd to him,</l>
+               <l>ſhould gade and play the whoor:</l>
+            </lg>
+            <pb n="13" facs="tcp:174846:8"/>
+            <lg n="111">
+               <head>111.</head>
+               <l>Nay, ſuch is his love jealouſie,</l>
+               <l>that he'l not be at peace</l>
+               <l>If ſuch, but turn the leaſt aſide,</l>
+               <l>ſtrange boſomes to imbrace.</l>
+            </lg>
+            <lg n="112">
+               <head>112.</head>
+               <l>And though it be moſt true, that he</l>
+               <l>putting away doth hate;</l>
+               <l>Yet even for unchaſte whooriſh looks,</l>
+               <l>his dear ſpouſe he will beat.</l>
+            </lg>
+            <lg n="113">
+               <head>113.</head>
+               <l>This thought ſometimes rolls in my mind</l>
+               <l>that this our age quite wrack,</l>
+               <l>That of GODS jealouſie and dread,</l>
+               <l>there hath been groſs miſtakes.</l>
+            </lg>
+            <lg n="114">
+               <head>114.</head>
+               <l>The greateſt rage of mortal men,</l>
+               <l>is ſure their jealouſie,</l>
+               <l>Wherein of the great gods, we may</l>
+               <l>ſome dark reſemblance ſee.</l>
+            </lg>
+            <lg n="115">
+               <head>115.</head>
+               <l>By this if Men be once inrag'd,</l>
+               <l>none may them ſtand before,</l>
+               <l>And this though mixt with love, yet makes</l>
+               <l>his Children dear to roar.</l>
+            </lg>
+            <lg n="116">
+               <head>116.</head>
+               <l>By this if he be rouſed up,</l>
+               <l>and with his feet but ſtamp</l>
+               <l>On the moſt ſtout, or ſtupid ſp'rits,</l>
+               <l>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> puts a mighty damp</l>
+            </lg>
+            <lg n="117">
+               <head>117.</head>
+               <l>His jealous frowns, his wrath rebuk<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>for ſin, mans beauty makes</l>
+               <l>Moth like conſume, ſo vain he proves,</l>
+               <l>when wrath hold on him takes:</l>
+            </lg>
+            <lg n="118">
+               <head>118.</head>
+               <l>As when he giveth peace none dare,</l>
+               <l>to make trouble be bold;</l>
+               <l>So when in wrath to hide his face,</l>
+               <l>none can him then behold.</l>
+            </lg>
+            <lg n="119">
+               <head>119.</head>
+               <l>Were all this and much more beleiv'd,</l>
+               <l>that told as truth might be,</l>
+               <l>To ſport with what provokes his wrath,</l>
+               <l>ſo bold we durſt not be.</l>
+            </lg>
+            <lg n="120">
+               <head>120.</head>
+               <l>But who of's wrath the mighty power,</l>
+               <l>doth know and underſtand,</l>
+               <l>Sure none, but ſuch as are in's fear,</l>
+               <l>inſtruct with a ſtrong hand.</l>
+            </lg>
+            <pb n="14" facs="tcp:174846:9"/>
+            <lg n="121">
+               <head>121.</head>
+               <l>This is moſt ſure, when ſenſe of wrath</l>
+               <l>tryſts with an other croſſe,</l>
+               <l>That man though dearly lov'd, yet will</l>
+               <l>be at a mighty loſs.</l>
+            </lg>
+            <lg n="122">
+               <head>122.</head>
+               <l>This doth dump, fright, reel, confound</l>
+               <l>and put the man in doubt,</l>
+               <l>He can but cry, ah; now alaſe!</l>
+               <l>my ſin hath found me out.</l>
+            </lg>
+            <lg n="123">
+               <head>123</head>
+               <l>For great infirmities ſuſtain,</l>
+               <l>yea will the ſprit of man,</l>
+               <l>But a wrath wounded ſpirit for ſin,</l>
+               <l>who is he that bear can?</l>
+            </lg>
+            <lg n="124">
+               <head>124.</head>
+               <l>GODS terrours, though a friend, will put</l>
+               <l>a man upon a rack,</l>
+               <l>And if they ſhould continue long,</l>
+               <l>would him even diſtract.</l>
+            </lg>
+            <lg n="125">
+               <head>125.</head>
+               <l>To croſſ'd and werſtling man knew we</l>
+               <l>what but one ſmile would yeild</l>
+               <l>In troubles, this would moſt take up</l>
+               <l>to have GOD reconcil'd.</l>
+            </lg>
+            <lg n="126">
+               <l>If <hi>I</hi> unfold could all the truth</l>
+               <l>on this concerning theame,</l>
+               <l>That writen is upon my ſpirit,</l>
+               <l>as a bright ſun beam.</l>
+            </lg>
+            <lg n="127">
+               <head>127.</head>
+               <l>O child of GOD! thou would'ſt no more</l>
+               <l>from him to ciſterns go,</l>
+               <l>But ſtill cry out as moſt averſe,</l>
+               <l>I'le no, I'le no, I'le no.</l>
+            </lg>
+            <lg n="128">
+               <head>128.</head>
+               <l>This for the time I do declare,</l>
+               <l>ſhould death me now approach,</l>
+               <l>For all theſe ciſterns pits and brooks,</l>
+               <l>my ſoul in thirſt ſhould ſcorch:</l>
+            </lg>
+            <lg n="129">
+               <head>129.</head>
+               <l>If but one ſcruple of his wrath,</l>
+               <l>were mingled in my cup,</l>
+               <l>The poyſon thereof, quickly would</l>
+               <l>even all my ſprits drink up.</l>
+            </lg>
+            <lg n="130">
+               <head>130.</head>
+               <l>What then could ciſterns, pits and pools,</l>
+               <l>In ſuch a choak availl,</l>
+               <l>When fire from heaven ſent in my bones</l>
+               <l>againſt them would prevail.</l>
+            </lg>
+            <pb n="15" facs="tcp:174846:9"/>
+            <lg n="131">
+               <head>131</head>
+               <l>It would within me doubtleſs raiſe</l>
+               <l>ſuch Soul inflaming drought,</l>
+               <l>That all theſe could not yeild what would</l>
+               <l>once cool, or wet my mouth.</l>
+            </lg>
+            <lg n="132">
+               <head>132.</head>
+               <l>But <hi>Dives</hi> like, I ſhould be forc'd</l>
+               <l>in that hate flame to cry,</l>
+               <l>O, that the leaſt drop watter now</l>
+               <l>to cool my tongue had I;</l>
+            </lg>
+            <lg n="133">
+               <head>133.</head>
+               <l>But one wayes then my thirſt to quench,</l>
+               <l>to drink life water ay,</l>
+               <l>Nothing this Fever heat to cooll,</l>
+               <l>but at lifes well to ſtay.</l>
+            </lg>
+            <lg n="134">
+               <head>134.</head>
+               <l>O, lingering time, run ſwift! take wings</l>
+               <l>flee quickly and be gone,</l>
+               <l>That I in HEAVEN with him may be,</l>
+               <l>and ſee His Face anone.</l>
+            </lg>
+            <lg n="135">
+               <head>135.</head>
+               <l>There Criſtal Rivers pure and clear</l>
+               <l>from under's Throne proceeds</l>
+               <l>Wherefore the firſt draught, ſurely would</l>
+               <l>quench all my thirſt with ſpeed,</l>
+            </lg>
+            <lg n="136">
+               <head>136.</head>
+               <l>There would I drink and eke forgett</l>
+               <l>all by paſt miſery,</l>
+               <l>And never more remember would</l>
+               <l>my former poverty.</l>
+            </lg>
+            <lg n="137">
+               <head>137.</head>
+               <l>Then take their laſt Good-night, would all</l>
+               <l>my jealouſies and fears</l>
+               <l>And me for ever bid farewel,</l>
+               <l>all ſighs, all groans all tears.</l>
+            </lg>
+            <lg n="138">
+               <head>138.</head>
+               <l>To theſe the Lambs and <hi>Moſes</hi> ſong</l>
+               <l>Triumphant would ſucceed,</l>
+               <l>That revelation would ſurpriſe,</l>
+               <l>my ſoul in very deed:</l>
+            </lg>
+            <lg n="139">
+               <head>139.</head>
+               <l>For unto it light, life, and love,</l>
+               <l>would follow allwayes no doubt,</l>
+               <l>And thence again would joyful praiſe</l>
+               <l>for evermore flow out.</l>
+            </lg>
+            <lg n="140">
+               <head>140.</head>
+               <l>For at's right Hand moſt perfect joyes,</l>
+               <l>and ſweeteſt Pleaſures be,</l>
+               <l>Make haſte, make haſte, Lord <hi>Jeſus Chriſt,</hi>
+               </l>
+               <l>O, bid me come and ſee!</l>
+            </lg>
+            <pb n="16" facs="tcp:174846:10"/>
+            <lg n="141">
+               <head>141.</head>
+               <l>The Sp'rit and Bride did long ſince ſay,</l>
+               <l>Come, come, LORD unto me,</l>
+               <l>And thou again didſt make reply,</l>
+               <l>Surely I come quickly.</l>
+            </lg>
+            <lg n="142">
+               <head>142.</head>
+               <l>Then for that glorious day, my ſoul</l>
+               <l>do thou long cry and call,</l>
+               <l>Wherein the <hi>LORD JEHOVAH</hi> may</l>
+               <l>to me be All in All:</l>
+            </lg>
+            <lg n="143">
+               <head>143.</head>
+               <l>Till ſhaddows flee, and that fair day</l>
+               <l>ſhall break, and on me dawn,</l>
+               <l>Make me, O LORD, to live as thine,</l>
+               <l>and never more mine own!</l>
+            </lg>
+            <lg n="144">
+               <head>144.</head>
+               <l>If thou at firſt didſt make and frame,</l>
+               <l>and then redeemedſt me,</l>
+               <l>Should <hi>I</hi> not judge, <hi>I</hi> ought to live</l>
+               <l>eternally to thee.</l>
+            </lg>
+            <lg n="145">
+               <head>145.</head>
+               <l>O, if to me to live were once,</l>
+               <l>moſt precious <hi>Ieſus Chriſt!</hi>
+               </l>
+               <l>Then death would unto me be gain,</l>
+               <l>and we ſhould friendly tryſt:</l>
+            </lg>
+            <lg n="146">
+               <head>146.</head>
+               <l>Though death me found ſhipwrackt at ſea,</l>
+               <l>or in a forraigne Land,</l>
+               <l>At home in priſon or in bonds,</l>
+               <l>or in the murtherers hand</l>
+            </lg>
+            <lg n="147">
+               <head>147.</head>
+               <l>Though it may meet in boots or block,</l>
+               <l>In gibbet, fire, or blood,</l>
+               <l>Even mank't or maim'd, diſmembred all</l>
+               <l>it would my friend ſtand good.</l>
+            </lg>
+            <lg n="148">
+               <head>148.</head>
+               <l>For death by <hi>Chriſt,</hi> death's reconceil'd,</l>
+               <l>and will not friends annoy,</l>
+               <l>But to the place of the King</l>
+               <l>them wiſh and ſave convoy.</l>
+            </lg>
+            <lg n="149">
+               <head>149.</head>
+               <l>Where what ſhall be our welcome home,</l>
+               <l>our beſt is to agree</l>
+               <l>To make a humble reference,</l>
+               <l>till we come there and ſee</l>
+            </lg>
+            <lg n="150">
+               <head>150.</head>
+               <l>And when in that aſſembly, great</l>
+               <l>GOD this referr ſhall call,</l>
+               <l>Then what is neaven ſight, will reſolve,</l>
+               <l>more then did nearings alll</l>
+            </lg>
+            <lg n="151">
+               <head>151.</head>
+               <l>We as amaz'd then will cry out.</l>
+               <pb n="17" facs="tcp:174846:10"/>
+               <l>the one half was not told,</l>
+               <l>Of all the glory that is here,</l>
+               <l>which now your eyes behold.</l>
+            </lg>
+            <lg n="152">
+               <head>152.</head>
+               <l>As ſwallowed up in this great gulf,</l>
+               <l>words bluſhing will retire,</l>
+               <l>And thoughts tho ſchrew'd up to the height,</l>
+               <l>will then ſtand and admire:</l>
+            </lg>
+            <lg n="153">
+               <head>153.</head>
+               <l>Nor ſo to ſpeak, the object will</l>
+               <l>ſwel'd to ſuch bigneſs be,</l>
+               <l>That compaſt by conceptions armes,</l>
+               <l>unabled be will we;</l>
+            </lg>
+            <lg n="154">
+               <head>154.</head>
+               <l>In ſumm, there we'll not ſin, nor be</l>
+               <l>tempted to ſin at all,</l>
+               <l>But as his ſervants do him ſerve,</l>
+               <l>ſo we then ſerve him ſhall:</l>
+            </lg>
+            <lg n="155">
+               <head>155.</head>
+               <l>In our fore-heads moſt lively then</l>
+               <l>ſhall His Name written be.</l>
+               <l>Like unto him we ſhall be made</l>
+               <l>and as he is him ſee.</l>
+            </lg>
+            <lg n="156">
+               <head>156.</head>
+               <l>Then to believe and wonder, none</l>
+               <l>will need us to exhort,</l>
+               <l>That fight will raviſh us, and as</l>
+               <l>in extaſie tranſport.</l>
+            </lg>
+            <lg n="157">
+               <head>157.</head>
+               <l>O! but the lively hope of this</l>
+               <l>ſtrong influence, ſhould have</l>
+               <l>Though men in <hi>Eden</hi> dwelt, to make</l>
+               <l>us long this world to have;</l>
+            </lg>
+            <lg n="158">
+               <head>158.</head>
+               <l>Much more this bleſt and glorious hope</l>
+               <l>would have a mighty ſtroak.</l>
+               <l>On the ſupportance of our ſprits,</l>
+               <l>in this deſtreſs and choak.</l>
+            </lg>
+            <lg n="159">
+               <head>159.</head>
+               <l>This loſſe of life and moveables,</l>
+               <l>with forfaults of eſtates</l>
+               <l>This loſſe of money out in bonds,</l>
+               <l>with gifts made of eſcheats;</l>
+            </lg>
+            <lg n="160">
+               <head>160.</head>
+               <l>This loſſe of dear relations all<g ref="char:punc">▪</g>
+               </l>
+               <l>Let be a whiles divorce,</l>
+               <l>By toſſings, wanderings, flights, exiles,</l>
+               <l>or what then theſe were worſe</l>
+            </lg>
+            <pb n="18" facs="tcp:174846:11"/>
+            <lg n="161">
+               <head>161.</head>
+               <l>Would make to be comported with,</l>
+               <l>for ſweet <hi>Chriſt Jeſus</hi> ſake:</l>
+               <l>For whom we're bound without refer,</l>
+               <l>even all things to forſake:</l>
+            </lg>
+            <lg n="162">
+               <head>162.</head>
+               <l>For him, I ſay, who did for us</l>
+               <l>come down from heavenly Throne,</l>
+               <l>And as a worm, and not a Man,</l>
+               <l>did creep his foot-ſtool on.</l>
+            </lg>
+            <lg n="163">
+               <head>163.</head>
+               <l>His entrance firſt into the world,</l>
+               <l>was all its pomp without,</l>
+               <l>To juſtice as our ſurety then,</l>
+               <l>he very low did lout.</l>
+            </lg>
+            <lg n="164">
+               <head>164.</head>
+               <l>For when to <hi>Bethlem Joſeph</hi> goes</l>
+               <l>with's Mother, they're not able</l>
+               <l>A room to purchaſe in the Inn,</l>
+               <l>but they muſt to the ſtable;</l>
+            </lg>
+            <lg n="165">
+               <head>165.</head>
+               <l>Where that bleſt Child, ſhe forth did bring,</l>
+               <l>and with her hands him ſwadle,</l>
+               <l>And in a manger did him lay,</l>
+               <l>having no better cradle:</l>
+            </lg>
+            <lg n="166">
+               <head>166.</head>
+               <l>Of's birth the firſt news came not to</l>
+               <l>Kings, Nobles, Men of might,</l>
+               <l>But to poor Sheepherds, who were there</l>
+               <l>watching their flocks by night;</l>
+            </lg>
+            <lg n="167">
+               <head>167.</head>
+               <l>And to this day few worldly wiſe,</l>
+               <l>Noble, or Great he calls,</l>
+               <l>But for the moſt part, the beſt lot</l>
+               <l>to meanner ones ſtill falls;</l>
+            </lg>
+            <lg n="168">
+               <head>168.</head>
+               <l>His Kingdom comes not with great ſhew,</l>
+               <l>but glorious makes within,</l>
+               <l>Its now, and will be yet, as it</l>
+               <l>from its firſt riſe hath been:</l>
+            </lg>
+            <lg n="169">
+               <head>169.</head>
+               <l>Though we in great winds, earthquakes, fire</l>
+               <l>would have him come with noiſe,</l>
+               <l>Yet oft he is in none of theſe,</l>
+               <l>but in the ſtill ſmall voice;</l>
+            </lg>
+            <lg n="170">
+               <head>170.</head>
+               <l>Though we, I ſay, would often have</l>
+               <l>him come the higher way,</l>
+               <l>Yet in the lower he delights,</l>
+               <l>himſelf much to convoy:</l>
+            </lg>
+            <pb n="19" facs="tcp:174846:11"/>
+            <lg n="171">
+               <head>171.</head>
+               <l>In's Infamy to ſave his life,</l>
+               <l>to <hi>Egypt</hi> they're made flee,</l>
+               <l>And for his ſake, all <hi>Bethlems</hi> Babes</l>
+               <l>King <hi>Herod</hi> made ſlain be.</l>
+            </lg>
+            <lg n="172">
+               <head>172.</head>
+               <l>
+                  <hi>CHRIST</hi>'s Kingdom is too oft ſuſpect,</l>
+               <l>as no great friend to Kings,</l>
+               <l>Which many of them, at the length,</l>
+               <l>of perſecution brings.</l>
+            </lg>
+            <lg n="173">
+               <head>173.</head>
+               <l>And this again doth him provoke,</l>
+               <l>to plague ſore theſe great ones,</l>
+               <l>And if they turn not at the laſt,</l>
+               <l>to overturn their thrones:</l>
+            </lg>
+            <lg n="174">
+               <head>174.</head>
+               <l>For with thrones of iniquity,</l>
+               <l>by law miſchief that frame,</l>
+               <l>No fellowſhip he'l have, but will</l>
+               <l>as mortar tread the ſame,</l>
+            </lg>
+            <lg n="175">
+               <head>175.</head>
+               <l>To looſe the bonds of mighty Kings,</l>
+               <l>for him's no great attempt,</l>
+               <l>And on the Princes of the Earth,</l>
+               <l>to pour ſhame and contempt;</l>
+            </lg>
+            <lg n="178">
+               <head>178.</head>
+               <l>Nay, he the Sp'rits of Princes great,</l>
+               <l>cuts off moſt eaſily,</l>
+               <l>And to the Kings that be on Earth,</l>
+               <l>moſt terrible is he:</l>
+            </lg>
+            <lg n="179">
+               <head>179.</head>
+               <l>For of the Lords he is the LORD,</l>
+               <l>and of all Kings the KING,</l>
+               <l>When they're unking'd, he'l gloriouſly</l>
+               <l>before his Ancients reign.</l>
+            </lg>
+            <lg n="180">
+               <head>180.</head>
+               <l>O! that Earths Kings, to this great KING</l>
+               <l>would all once homage pay,</l>
+               <l>And kiſs the Son, leaſt in his wrath</l>
+               <l>they periſh from the way.</l>
+            </lg>
+            <lg n="181">
+               <head>181.</head>
+               <l>Though great Law-giver, yet he was</l>
+               <l>made ſubject to the Law,</l>
+               <l>And of his Parents which he made,</l>
+               <l>when young he ſtood in aw.</l>
+            </lg>
+            <lg n="182">
+               <head>182.</head>
+               <l>O ſtrange! the everlaſting Father</l>
+               <l>a Child and Youth to ſee,</l>
+               <l>And the great Potter, unto clay</l>
+               <l>ſtooping ſo rev'rently</l>
+            </lg>
+            <pb n="20" facs="tcp:174846:12"/>
+            <lg n="183">
+               <head>183.</head>
+               <l>With him to worſhip when twelve Years</l>
+               <l>he to <hi>Jeruſalem</hi> went</l>
+               <l>Betimes to ſhew to keep the Law,</l>
+               <l>he in the World was ſent:</l>
+            </lg>
+            <lg n="184">
+               <head>184.</head>
+               <l>And that by going when ſo young,</l>
+               <l>for that end to the Temple,</l>
+               <l>GOD ſoon to worſhip, young ones might</l>
+               <l>be taught by his example.</l>
+            </lg>
+            <lg n="185">
+               <head>185.</head>
+               <l>Thereby withal, right early he</l>
+               <l>GODS Majeſty attones,</l>
+               <l>For our neglect of worſhip, when</l>
+               <l>we were yet younger ones.</l>
+            </lg>
+            <lg n="186">
+               <head>186.</head>
+               <l>Once with the Docters then, and there</l>
+               <l>moſt gravely reaſon'd he,</l>
+               <l>That of's Prophetick office they</l>
+               <l>might have a preludie</l>
+            </lg>
+            <lg n="187">
+               <head>187.</head>
+               <l>And that a Child might teach to Men,</l>
+               <l>How to manage debates,</l>
+               <l>And in all theſe might purge the ſin</l>
+               <l>of their diſtempring heates.</l>
+            </lg>
+            <lg n="188">
+               <head>288.</head>
+               <l>But what was done by him beſides.</l>
+               <l>throughout whole thirty Years,</l>
+               <l>Wherein he lurk'd and liv'd obſcure.</l>
+               <l>nothing in writ appears.</l>
+            </lg>
+            <lg n="189">
+               <head>189.</head>
+               <l>Unleſs it be, that though he made</l>
+               <l>the World, and it adorn'd</l>
+               <l>Yet as a Carpenter to Work</l>
+               <l>With's hands he nothing ſcorn'd.</l>
+            </lg>
+            <lg n="190">
+               <head>190.</head>
+               <l>That Lawful Callings He thereby</l>
+               <l>might to us ſanctifie</l>
+               <l>And us provoke to ſome of theſe,</l>
+               <l>GOD ſtill to Glorifie.</l>
+            </lg>
+            <lg n="191">
+               <head>191.</head>
+               <l>And further more that guilt contract</l>
+               <l>by us from Day to Day,</l>
+               <l>In all our Lawful Callings might</l>
+               <l>be taken clean away.</l>
+            </lg>
+            <lg n="192">
+               <head>192.</head>
+               <l>And theſe ſome four Years that to Preach,</l>
+               <l>he publickly appear'd,</l>
+               <l>He made no noiſe into the ſtreets,</l>
+               <l>his cry was ever heard.</l>
+            </lg>
+            <pb n="21" facs="tcp:174846:12"/>
+            <lg n="193">
+               <head>193.</head>
+               <l>When doing greateſt things, how oft,</l>
+               <l>Tell no man, then ſaid he,</l>
+               <l>Though when the leaſt are done by us,</l>
+               <l>tell all men, cry do we.</l>
+            </lg>
+            <lg n="194">
+               <head>194.</head>
+               <l>O! here to him we're moſt unlike,</l>
+               <l>who love ſo much the ſtreet,</l>
+               <l>And in our way to heaven, do make,</l>
+               <l>ſo greatnoiſe with their feet:</l>
+            </lg>
+            <lg n="195">
+               <head>195.</head>
+               <l>One grace alace! we love to have,</l>
+               <l>by mens aplauſe ſun ſhin'd,</l>
+               <l>And hence it comes to paſs, that its</l>
+               <l>ſo withered, dry'd, and cryn'd;</l>
+            </lg>
+            <lg n="196">
+               <head>196.</head>
+               <l>It alſo may be one great cauſe,</l>
+               <l>that faith hath now ſuch doubting,</l>
+               <l>That <hi>Chriſtians</hi> of this have lov'd,</l>
+               <l>to be ſo much in outing.</l>
+            </lg>
+            <lg n="197">
+               <head>197.</head>
+               <l>Did he not once, who could not err?</l>
+               <l>ſay how can ye beleive?</l>
+               <l>Who in the air of mutual praiſe,</l>
+               <l>do love ſo much to live:</l>
+            </lg>
+            <lg n="198">
+               <head>198.</head>
+               <l>And ſure as no true faith can be,</l>
+               <l>where reigneth this great ill;</l>
+               <l>So where that is prevails, the ſoul</l>
+               <l>with great doubts it doth fill,</l>
+            </lg>
+            <lg n="199">
+               <head>199.</head>
+               <l>O! When religion outrings all</l>
+               <l>to have, once we ſhall win,</l>
+               <l>As meer conſtrain'd reſults of grace,</l>
+               <l>in life and power within:</l>
+            </lg>
+            <lg n="200">
+               <head>200.</head>
+               <l>Hereby this patern bleſt, we would</l>
+               <l>reſemble very near,</l>
+               <l>who lov'd allwayes to hide, but when</l>
+               <l>He forc'd was to appear.</l>
+            </lg>
+            <lg n="201">
+               <head>201.</head>
+               <l>A longs his life, for's people he</l>
+               <l>of ſorrows was a man</l>
+               <l>To make aquaintance eke with him,</l>
+               <l>ſad grief betimes began.</l>
+            </lg>
+            <lg n="202">
+               <head>202.</head>
+               <l>We read not he ever laugh'd,</l>
+               <l>but of the weept and groan'd,</l>
+               <l>Mens ſins, and their calamities,</l>
+               <l>is moſt ſadly bemoan'd,</l>
+            </lg>
+            <pb n="22" facs="tcp:174846:13"/>
+            <lg n="203">
+               <head>203.</head>
+               <l>Him had you ſeen, ye would have ſaid,</l>
+               <l>this in his face appears,</l>
+               <l>Who though but thirty four, yet look'd</l>
+               <l>like one of fifty years;</l>
+            </lg>
+            <lg n="204">
+               <head>204.</head>
+               <l>His viſage more then ſons of men,</l>
+               <l>ſo very much was marr'd,</l>
+               <l>We hid as't were, our face from him,</l>
+               <l>And at his trouble ſcar'd.</l>
+            </lg>
+            <lg n="205">
+               <head>205.</head>
+               <l>No form nor beauty was in him,</l>
+               <l>unto the carnal eye,</l>
+               <l>Why he ſhould be deſir'd, and yet</l>
+               <l>even all deſires was he</l>
+            </lg>
+            <lg n="206">
+               <head>206.</head>
+               <l>To <hi>Atheiſm,</hi> to <hi>Devils Worſhip,</hi>
+               </l>
+               <l>ſelf Murther, Doubt diſpair,</l>
+               <l>Him for full fourty days to tempt,</l>
+               <l>the devil did never ſpare:</l>
+            </lg>
+            <lg n="207">
+               <head>207.</head>
+               <l>In all which great tentation,</l>
+               <l>ſin did him never ſtain,</l>
+               <l>But he a victor abſolute,</l>
+               <l>did conſtantly remain,</l>
+            </lg>
+            <lg n="208">
+               <head>208.</head>
+               <l>Theſe Worlds Prince came, but nothing found</l>
+               <l>in him to work upon;</l>
+               <l>For the only man he was in whom</l>
+               <l>of Satans work was none.</l>
+            </lg>
+            <lg n="209">
+               <head>209.</head>
+               <l>And ſuch an <hi>High-prieſt</hi> undefil'd,</l>
+               <l>us without doubt became,</l>
+               <l>Who ſeparate from ſinners was,</l>
+               <l>holy, and without harme</l>
+            </lg>
+            <lg n="210">
+               <head>210.</head>
+               <l>Though ſinleſs, yet he in all points</l>
+               <l>was tempted as are we</l>
+               <l>That when we're tempted, he to us</l>
+               <l>a ſuccorer might be</l>
+            </lg>
+            <lg n="211">
+               <head>211.</head>
+               <l>Such a <hi>High Prieſt</hi> we now have then,</l>
+               <l>with our infirmities.</l>
+               <l>Who will moſt fellingly be touch'd,</l>
+               <l>and with us ſimpathize:</l>
+            </lg>
+            <lg n="212">
+               <head>212.</head>
+               <l>He Weary was, and Thirſty both,</l>
+               <l>he often laiked Bread,</l>
+               <l>Though LORD of all, yet had he not</l>
+               <l>whereon to lay His Head,</l>
+            </lg>
+            <pb n="23" facs="tcp:174846:13"/>
+            <lg n="213">
+               <head>213.</head>
+               <l>He though moſt rich for his People</l>
+               <l>took on ſuch Poverty,</l>
+               <l>That Women of their ſubſtance did</l>
+               <l>afford him ſome ſupply.</l>
+            </lg>
+            <lg n="214">
+               <head>214.</head>
+               <l>He in the Garden heavy was,</l>
+               <l>and ſorrowful to death,</l>
+               <l>In's Hand a Cup Juſtice did put</l>
+               <l>of ſin reveanging wrath.</l>
+            </lg>
+            <lg n="215">
+               <head>215.</head>
+               <l>At which amaz'd trembling he ſtood,</l>
+               <l>the Tears ruſh'd in his Fyes</l>
+               <l>A grouf he fell on's face to pray,</l>
+               <l>and ſometimes on his knees.</l>
+            </lg>
+            <lg n="216">
+               <head>216.</head>
+               <l>And when the wrathful comflict grew,</l>
+               <l>wiſe Juſtice thinking't good,</l>
+               <l>Till he was in an agony,</l>
+               <l>and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herein did ſweet Blood;</l>
+            </lg>
+            <lg n="217">
+               <head>217</head>
+               <l>He offered up more earneſt Prayers,</l>
+               <l>with ſtrong Cryes, and with Tears,</l>
+               <l>To him who could him ſave, and heard</l>
+               <l>in what were then his fears.</l>
+            </lg>
+            <lg n="218">
+               <head>218.</head>
+               <l>His ſuit unto his Father was</l>
+               <l>On Ground, yet proſtrare ſtill,</l>
+               <l>
+                  <hi>O let this Cup depart from me</hi>
+               </l>
+               <l>
+                  <hi>if it be thine own will;</hi>
+               </l>
+            </lg>
+            <lg n="219">
+               <head>219.</head>
+               <l>
+                  <hi>Yet not my will, O Father dear,</hi>
+               </l>
+               <l>
+                  <hi>But thy bleſt will be done;</hi>
+               </l>
+               <l>
+                  <hi>Since for the elect that it ſhould</hi>
+               </l>
+               <l>
+                  <hi>be thus, we griev'd upon:</hi>
+               </l>
+            </lg>
+            <lg n="220">
+               <head>220.</head>
+               <l>
+                  <hi>Even for this cauſe, it was that</hi>
+               </l>
+               <l>
+                  <hi>came to this darkeſt hour,</hi>
+               </l>
+               <l>
+                  <hi>Of burning wrath, that I might ſtand,</hi>
+               </l>
+               <l>
+                  <hi>between them and the ſtour,</hi>
+               </l>
+            </lg>
+            <lg n="221">
+               <head>221.</head>
+               <l>
+                  <hi>I'le heartily then drink this cup,</hi>
+               </l>
+               <l>
+                  <hi>that theſe dear ſouls may be</hi>
+               </l>
+               <l>
+                  <hi>According to Redemption past,</hi>
+               </l>
+               <l>
+                  <hi>from it made ever free.</hi>
+               </l>
+            </lg>
+            <lg n="222">
+               <head>222.</head>
+               <l>He captive was, and Priſoner,</l>
+               <l>he alſo was in bonds,</l>
+               <l>He very roughly uſed was,</l>
+               <l>among rude Souldiers hinds.</l>
+            </lg>
+            <pb n="24" facs="tcp:174846:14"/>
+            <lg n="223">
+               <head>223.</head>
+               <l>Before mens courts he was araigned</l>
+               <l>and there accuſ'd of Treaſon.</l>
+               <l>Yea for the ſame he was condemn'd,</l>
+               <l>againſt all Law and Reaſon.</l>
+            </lg>
+            <lg n="224">
+               <head>224.</head>
+               <l>O ſtrange the Juſt and Righteous Judge,</l>
+               <l>of all the World to ſee,</l>
+               <l>By wicked, and ungodly men</l>
+               <l>judg'd, and condemn'd to be.</l>
+            </lg>
+            <lg n="225">
+               <head>225.</head>
+               <l>'Mongſt Theeves, &amp; Robbers, he was rank'd</l>
+               <l>nay, they to Him prefer'd,</l>
+               <l>That He was worſe then any ſuch,</l>
+               <l>the Church-men ſtill averr'd,</l>
+            </lg>
+            <lg n="226">
+               <head>226.</head>
+               <l>He ſpit on was reproach'd, revil'd,</l>
+               <l>and fill'd with mocks and ſcorns;</l>
+               <l>Yea, buffeted, and ſcourged was,</l>
+               <l>and alſo Crown'd with Thorns.</l>
+            </lg>
+            <lg n="227">
+               <head>227.</head>
+               <l>Off His bleſt Cheek, pluck't was the Hair,</l>
+               <l>He on the Face was ſtruck,</l>
+               <l>Yet all this for His Peoples ſake,</l>
+               <l>moſt Patiently he took.</l>
+            </lg>
+            <lg n="228">
+               <head>228.</head>
+               <l>He Lamb like to the ſhambles was brought</l>
+               <l>never a Word did ſay,</l>
+               <l>But for his bitter enemies,</l>
+               <l>moſt earneſtlie did pray.</l>
+            </lg>
+            <lg n="229">
+               <head>229.</head>
+               <l>A Purple Rob on Him they put,</l>
+               <l>in His Right Hand a Reed;</l>
+               <l>And but a mock of him they made,</l>
+               <l>who was a King indeed.</l>
+            </lg>
+            <lg n="230">
+               <head>230</head>
+               <l>It's hard now to believe that this</l>
+               <l>poor object Man was GOD,</l>
+               <l>Who as a Worm by villeſt men</l>
+               <l>was under foot thus trode.</l>
+            </lg>
+            <lg n="231">
+               <head>231.</head>
+               <l>Stript, and rackt on the Croſs He was,</l>
+               <l>the ſpace of three full houres</l>
+               <l>Where all the while of Grief and Pain,</l>
+               <l>He had ſharp Fits and Showrs,</l>
+            </lg>
+            <lg n="232">
+               <head>232.</head>
+               <l>His confidence in GOD and Prayers,</l>
+               <l>unto Him were caſt up,</l>
+               <l>Which not a little to Him ſure,</l>
+               <l>imbittered his Cup.</l>
+            </lg>
+            <pb n="25" facs="tcp:174846:14"/>
+            <lg n="233">
+               <head>233.</head>
+               <l>When wrought with pain, he thirſty was,</l>
+               <l>and for ſome drink did call,</l>
+               <l>Nothing was then allow'd on him,</l>
+               <l>but Vinegar and Gall:</l>
+            </lg>
+            <lg n="234">
+               <head>234.</head>
+               <l>And which was yet more ſad and ſtrange</l>
+               <l>when very near to die.</l>
+               <l>He's forc'd to cry my GOD, my GOD,</l>
+               <l>forſake why haſt thou me?</l>
+            </lg>
+            <lg n="235">
+               <head>235.</head>
+               <l>Forſake he was as to what might</l>
+               <l>him ſenſibly comfort,</l>
+               <l>Though not at all, as to what did</l>
+               <l>him mightily ſupport.</l>
+            </lg>
+            <lg n="236">
+               <head>236.</head>
+               <l>All this He ſuffered, and was made</l>
+               <l>for thee, I ſay, for thee,</l>
+               <l>Believing ſoul, and will thou not</l>
+               <l>him love, and for him die?</l>
+            </lg>
+            <lg n="237">
+               <head>237.</head>
+               <l>Ah! that about thy ſufferings, thou</l>
+               <l>ſhould with him thus debate,</l>
+               <l>Who of GODS fierce and flaming wrath,</l>
+               <l>for thee had ſuch an heat.</l>
+            </lg>
+            <lg n="238">
+               <head>238.</head>
+               <l>His ſufferings were ſo great, that them</l>
+               <l>the Sun could not behold,</l>
+               <l>But as afraid, and bluſhing did</l>
+               <l>himſelf in cloud infold.</l>
+            </lg>
+            <lg n="239">
+               <head>239.</head>
+               <l>The HEAVENS grew dark the Earth did quake,</l>
+               <l>the Rocks alſo were rent</l>
+               <l>At this ſtrange ſight, natures whole courſe,</l>
+               <l>out of courſe wholly went.</l>
+            </lg>
+            <lg n="240">
+               <head>240.</head>
+               <l>Come ſuffering ſaints, for CHRIST come, come,</l>
+               <l>view ye the ſufferings here.</l>
+               <l>They're very many great and ſtrange,</l>
+               <l>let all your's not diſpair.</l>
+            </lg>
+            <lg n="241">
+               <head>241.</head>
+               <l>Be ſtill, and of your ſufferings ſmall,</l>
+               <l>as great, talke ye no more</l>
+               <l>Like theſe on Earth, men ſhall again</l>
+               <l>be as were none before;</l>
+            </lg>
+            <lg n="242">
+               <head>242.</head>
+               <l>Your greateſt ſuffering of the Croſs,</l>
+               <l>but very ſmall chips be,</l>
+               <l>On his bleſt ſhoulders ſure did ly,</l>
+               <l>the great end of the Tree.</l>
+            </lg>
+            <pb n="26" facs="tcp:174846:15"/>
+            <lg n="243">
+               <head>243.</head>
+               <l>By theſe moſt dreadful ſufferings, was</l>
+               <l>the Elect peace porcur'd,</l>
+               <l>On him did light GODS wrath and curſe,</l>
+               <l>which ye ſhould ay endur'd.</l>
+            </lg>
+            <lg n="244">
+               <head>244.</head>
+               <l>By theſe for you he alſo bought,</l>
+               <l>all ſanctifying Grace,</l>
+               <l>With right to fellowſhip with GOD,</l>
+               <l>and ſweeteſt ſights of's Face,</l>
+            </lg>
+            <lg n="245">
+               <head>245.</head>
+               <l>By his, yours all, for him are bleſt.</l>
+               <l>and you thereby adorn'd;</l>
+               <l>By them your way is path'd to HEAVEN,</l>
+               <l>and you to him confirm'd;</l>
+            </lg>
+            <lg n="246">
+               <head>246.</head>
+               <l>Through ſufferings he was made perfect,</l>
+               <l>and ſtept up to his throne,</l>
+               <l>Through that ſame way, ſhould ye not be</l>
+               <l>content to follow one,</l>
+            </lg>
+            <lg n="247">
+               <head>247.</head>
+               <l>Come pledge him then in croſſes cup,</l>
+               <l>for drunk't out was by him,</l>
+               <l>All dregs of wrath is now pure love,</l>
+               <l>from bottom even to brime.</l>
+            </lg>
+            <lg n="248">
+               <head>248.</head>
+               <l>Nay ſo prepaird that ſpiritual health,</l>
+               <l>It keeps and doth reſtore,</l>
+               <l>This Cup then take when it's propyn'd,</l>
+               <l>and ſcare at it no more.</l>
+            </lg>
+            <lg n="249">
+               <head>249.</head>
+               <l>He by his ſufferings of GOD's wrath.</l>
+               <l>the Wine-preſs trod alone,</l>
+               <l>Of all the people of the World,</l>
+               <l>to help him there was none:</l>
+            </lg>
+            <lg n="250">
+               <head>250.</head>
+               <l>His Agony to ſee, it's true,</l>
+               <l>of's friends He took the chief;</l>
+               <l>But ah! good Men they helped not,</l>
+               <l>but added to His grief;</l>
+            </lg>
+            <lg n="251">
+               <head>251.</head>
+               <l>And though their ſins concurr'd, to bring</l>
+               <l>on him of wrath that ſhowr;</l>
+               <l>Yet could they not be kept from ſleep,</l>
+               <l>to watch with him one hour;</l>
+            </lg>
+            <lg n="252">
+               <head>252.</head>
+               <l>But left him all e're long, and each</l>
+               <l>unto his own did go,</l>
+               <l>And one of them, alas! did ſwear,</l>
+               <l>the MAN he did not know.</l>
+            </lg>
+            <pb n="27" facs="tcp:174846:15"/>
+            <lg n="253">
+               <head>253.</head>
+               <l>Here ſtop we may, and ſadly mark,</l>
+               <l>what Men in Tryals are,</l>
+               <l>The beſt, when left from following CHRIST,</l>
+               <l>a poor Maids voice will ſcare:</l>
+            </lg>
+            <lg n="254">
+               <head>254.</head>
+               <l>Let us not then high minded be,</l>
+               <l>but fear and tremble all,</l>
+               <l>Leaſt on the ſtage of Tryal we</l>
+               <l>do catch ſome ſhameful fall.</l>
+            </lg>
+            <lg n="255">
+               <head>255.</head>
+               <l>No weight be laid on our moſt ſweet,</l>
+               <l>but yet untry'd reſolves,</l>
+               <l>Which the tentations cloſe approach,</l>
+               <l>moſt frequently diſſolves:</l>
+            </lg>
+            <lg n="256">
+               <head>256.</head>
+               <l>No ſtocks of grace, No by paſt helps,</l>
+               <l>no now warm fits we ſee,</l>
+               <l>Will after choaks ſuſtain, but ſhrink,</l>
+               <l>without CHRISTS freſh ſupplie.</l>
+            </lg>
+            <lg n="257">
+               <head>257.</head>
+               <l>If theſe Tryalls, then we would</l>
+               <l>be kept from all offences</l>
+               <l>Let's Fear, Watch, Pray, and humbly wait,</l>
+               <l>for Heavens new influences,</l>
+            </lg>
+            <lg n="258">
+               <head>258.</head>
+               <l>In all Chriſts ſufferings her's the Word,</l>
+               <l>this ſuffering MAN was GOD</l>
+               <l>
+                  <hi>Emmanuel</hi> he was, who bare</l>
+               <l>of wrath, this heavy load.</l>
+            </lg>
+            <lg n="259">
+               <head>259.</head>
+               <l>Let Men and Angells all admire,</l>
+               <l>how ſuch a thing ſhould be,</l>
+               <l>That GOD Eternal ſhould be MAN,</l>
+               <l>and ſuffer thus and die!</l>
+            </lg>
+            <lg n="260">
+               <head>260.</head>
+               <l>Let Reaſon ſtoup, ſtand by, and ſtill</l>
+               <l>for ever, hold its peace,</l>
+               <l>As quite tranſcended in it's reach,</l>
+               <l>let it to Faith give place.</l>
+            </lg>
+            <lg n="261">
+               <head>261.</head>
+               <l>Which yet none can that it is ſo,</l>
+               <l>in very deed believe,</l>
+               <l>But hardly can how it is ſo,</l>
+               <l>us ſatisfaction give:</l>
+            </lg>
+            <lg n="262">
+               <head>262.</head>
+               <l>Here Angels intellectual Sprits,</l>
+               <l>love to be Scholars ſtill.</l>
+               <l>And cannot at this miſtery great</l>
+               <l>of wondering have their fill.</l>
+            </lg>
+            <pb n="28" facs="tcp:174846:16"/>
+            <lg n="263">
+               <head>263.</head>
+               <l>Into it they with great delight,</l>
+               <l>do look, yea, dyve, and pry;</l>
+               <l>And yet they're not ſo much concern'd,</l>
+               <l>as ſtupid thou and I!</l>
+            </lg>
+            <lg n="264">
+               <head>264.</head>
+               <l>Which makes me think were't poſſible,</l>
+               <l>that Chriſt of's love could rue,</l>
+               <l>We would him tempt, our thoughts of it</l>
+               <l>and wondrings are ſo few.</l>
+            </lg>
+            <lg n="265">
+               <head>265.</head>
+               <l>But here's the wonder great, which ſhall</l>
+               <l>of wonder ever be,</l>
+               <l>That He loves them, that cannot love,</l>
+               <l>O! but His love is free:</l>
+            </lg>
+            <lg n="266">
+               <head>266.</head>
+               <l>And now becauſe thou cannot love,</l>
+               <l>good news I pray thee hear,</l>
+               <l>The day's at hand wherein thou-ſhalt</l>
+               <l>behold love, and admire.</l>
+            </lg>
+            <lg n="267">
+               <head>267.</head>
+               <l>Mean time for CHRIST take up thy Croſs,</l>
+               <l>and bear it patiently,</l>
+               <l>Remembering what great things, and how</l>
+               <l>he ſuffered hath for thee:</l>
+            </lg>
+            <lg n="268">
+               <head>268.</head>
+               <l>For CHRIST, I ſay, take up thy Croſs,</l>
+               <l>and be no more caſt down,</l>
+               <l>For thou art now apparrent heir</l>
+               <l>of an immorral Crown:</l>
+            </lg>
+            <lg n="269">
+               <head>269.</head>
+               <l>Which thou ſhalt wear e're it be long,</l>
+               <l>and be inthron'd in State,</l>
+               <l>Then thou'l be well, O! rarely well,</l>
+               <l>above reach of debate.</l>
+            </lg>
+            <lg n="270">
+               <head>247.</head>
+               <l>Now unto him who lov'd us, and</l>
+               <l>from ſins in's own Blood waſh'd:</l>
+               <l>And the hand writing croſs'd to us,</l>
+               <l>naild to his Croſs out daſh'd.</l>
+            </lg>
+            <lg n="271">
+               <head>271.</head>
+               <l>Who from principallities, and power,</l>
+               <l>did us as ſpoile reſcue;</l>
+               <l>And ov'r them in't triumpht, and made</l>
+               <l>of them an open ſhew.</l>
+            </lg>
+            <lg n="272">
+               <head>272.</head>
+               <l>And to him who to this live hope,</l>
+               <l>hath us begot again,</l>
+               <l>By raiſing <hi>Chriſt</hi> up from the dead,</l>
+               <l>all Bleſſing be: <hi>Amen.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS CORONAT OP<g ref="char:V">Ʋ</g>S.</trailer>
+            <pb facs="tcp:174846:16"/>
+            <pb facs="tcp:174846:17"/>
+            <pb facs="tcp:174846:17" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
